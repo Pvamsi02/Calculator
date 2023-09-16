@@ -302,7 +302,7 @@
                 android:layout_height="80dp"
                 android:layout_margin="10dp"
                 app:cornerRadius="36dp"
-                android:backgroundTint="@color/equal"
+                android:backgroundTint="@color/blue"
                 android:text="="
                 android:textColor="@color/white"
                 android:textSize="50sp"

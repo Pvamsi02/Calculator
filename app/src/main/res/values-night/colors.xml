@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#ab3f4c</color>
     <color name="equal">#857831</color>
+    <color name="blue">#98fb98</color>
     <color name="bg"> #263238</color>
     <color name="green">#FF000000</color>
 </resources>
