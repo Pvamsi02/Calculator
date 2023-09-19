@@ -8,10 +8,10 @@ Done a complete Calculator app for android
 - Good looking themes ( for Eye comfort )
 
 # Light Theme for the Calculator
-![Calculator light](https://github.com/Pvamsi02/Calculator/assets/112920388/fee232b4-c386-4dfe-a30c-1b64e1b93d43)
+![Calculator light](https://github.com/Pvamsi02/Calculator/assets/112920388/5aa0fecb-7290-4cc8-b7f8-1d05982ac2a8)
 
 # Dark Theme of the Calculator
-![Calculator dark](https://github.com/Pvamsi02/Calculator/assets/112920388/a932934b-76cb-4caa-938c-b881bbcfb50c)
+![Calculator dark](https://github.com/Pvamsi02/Calculator/assets/112920388/e2969091-582a-45c4-af13-70b9091ba529)
 
 # Calculation of the Calculator
-![Calculator Calculation](https://github.com/Pvamsi02/Calculator/assets/112920388/cb042c79-18cb-4c15-9c8c-535f0deb5e4f)
+![Calculator Calculation](https://github.com/Pvamsi02/Calculator/assets/112920388/e2ae1bcf-93bc-4eee-8f40-7287bc373bc0)
